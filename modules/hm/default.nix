@@ -385,7 +385,7 @@ in {
       firefox = let
         logo = builtins.fetchurl {
           url = "https://github.com/schizofox/assets/blob/main/logo/logo.png";
-          sha256 = "103krz3yy0qwss73l5w8326xkqkai6h1x1h37ww2ybaqr2is1bh1";
+          sha256 = "1gsy63x12hmq54d2qpzmddninjg8id7dgsnb9mw268cjr6sq3669";
         };
       in {
         name = "Schizofox";
