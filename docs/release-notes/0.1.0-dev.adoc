@@ -1,0 +1,12 @@
+[[sec-release-0.1.0-dev]]
+== Release 0.1.0-dev
+
+This release is the first ever version where I can confidently say we're ready for production. Most annoyances have been
+ironed out and profile system is properly in place. There is much more to come, of course, but we should be ready for daily
+use at this point.
+
+
+[[sec-release-0.1.0-dev-changelog]]
+=== Changelog
+
+

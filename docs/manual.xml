@@ -1,0 +1,22 @@
+<book xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      version="5.0"
+      xml:id="book-schizofox-manual">
+ <preface>
+  <title>Preface</title>
+  <para>
+   If your problem is caused by a bug in neovim-flake then it should be reported on the
+   <link xlink:href="https://github.com/notashelf/neovim-flake/issues">neovim-flake issue tracker</link>.
+   Alongside bug reports, feature requests are also welcome over
+   <link xlink:href="https://github.com/notashelf/neovim-flake/pulls">neovim-flake pull requests</link>.
+
+  </para>
+ </preface>
+ <xi:include href="manual/home-manager.xml"/>
+ <appendix xml:id="ch-options">
+  <title>Configuration Options</title>
+  <xi:include href="./nmd-result/schizofox-options.xml" />
+ </appendix>
+ <xi:include href="./release-notes/release-notes.xml" />
+</book>
